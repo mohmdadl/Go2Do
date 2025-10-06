@@ -1,6 +1,6 @@
 # go2do
 
-A new Flutter project.
+![Image](https://github.com/user-attachments/assets/3b55d80c-b83e-444f-ab5e-2592621011ef)
 
 ## Getting Started
 
